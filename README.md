@@ -31,4 +31,4 @@ PASSWORD="123456"
 
 DATABASE="estoque.sh"
 
-pg_dump -h $localhost -u $postgres -p $123456 $estoque.sh > $estoque.backup
+pg_dump -h $localhost -u $bdpg -p $123456 $estoque.sh > $estoque.backup
