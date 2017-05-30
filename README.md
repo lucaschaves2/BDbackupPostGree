@@ -1,5 +1,5 @@
 # BDbackupPostGree
-Script com a funcionalidade de realizar o backup de um Banco de Dados PostGreSQL, com declaração de variáveis e regras de inicialização e realização do BackUo.
+Script com a funcionalidade de realizar o backup de um Banco de Dados PostGreSQL, com declaração de variáveis e regras de implementação realização do BackUP.
 
 #SHELLSCRIPTBDbackupPostGree
 
